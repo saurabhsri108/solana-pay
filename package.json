@@ -1,0 +1,22 @@
+{
+  "name": "solana-pay",
+  "version": "0.1.0",
+  "description": "Learning how to use Solana Pay",
+  "main": "main.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasudeveloper001/solana-pay.git"
+  },
+  "keywords": [
+    "solana-pay"
+  ],
+  "author": "Saurabh Srivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasudeveloper001/solana-pay/issues"
+  },
+  "homepage": "https://github.com/vasudeveloper001/solana-pay#readme"
+}
